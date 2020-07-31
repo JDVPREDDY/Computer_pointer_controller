@@ -133,7 +133,7 @@ python <project_file.py directory> -fd <Face detection model name directory> -fl
 ```
 
 ## Directory Structure of the project 
-![Directory Structure](https://github.com/JDVPREDDY/Computer-Pointer-Controller/blob/master/bin/Capture.PNG)
+![Directory Structure](https://github.com/JDVPREDDY/Computer_pointer_controller/blob/master/bin/Capture.PNG)
 
 - src folder contains all the source files:-
   * face_detection.py 
