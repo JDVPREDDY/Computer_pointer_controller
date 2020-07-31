@@ -1,0 +1,22 @@
+Folder PATH listing
+Volume serial number is 40A8-95B0
+C:.
+³   .Instructions.md.swp
+³   README.md
+³   requirements.txt
+³   tree.txt
+³   
+ÃÄÄÄbin
+³       .gitkeep
+³       demo.mp4
+³       DirectoryStructure.PNG
+³       
+ÀÄÄÄsrc
+        face_detection.py
+        facial_landmarks_detection.py
+        gaze_estimation.py
+        head_pose_estimation.py
+        input_feeder.py
+        main.py
+        mouse_controller.py
+        
